@@ -406,6 +406,7 @@
   padding: 31px 47px;
   display: block;
   height: 405px;
+  max-width: 100%;
   z-index: 2;
 }
 
